@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/150680984-cd39e9f0-6cc6-49e4-bc88-493e7bc4a433.png" align="left" height="150px" width="150px">
+    <h1># Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Objetivo desde código é a simplicidade de reforço do conhecimento em programação orientado a objetos (POO) em C# tendo como exercício um pequeno projeto prático.
     </p>
 </p>      
 
